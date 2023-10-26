@@ -13,7 +13,6 @@
 }
 
 /* BURGERMENU */
-
 @media (max-width: 768px) {
   .open-menu-icon {
     width: 20%;
@@ -73,7 +72,6 @@
     justify-content: end;
   }
 }
-
 /* BURGERMENU END */
 
 img {
